@@ -4,4 +4,4 @@ This repo provides study materials for a course on "Containerized CI/CD" where C
 
 Feel free to update and add materials to this repo.
 
-This is CI/CD course for 1 credit
+This is CI/CD course for 1 credit 
